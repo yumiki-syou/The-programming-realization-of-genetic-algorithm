@@ -11,6 +11,7 @@ The Traveling Salesman Problem (TSP) is a classic operational research optimizat
 The Traveling Salesman Problem (TSP) refers to a single traveling salesman who needs to go to N cities to sell goods. The salesman starting from a certain city and passing through n-1 cities. The traveling salesman can pass through n-1 cities and can only pass once, and then return to the departure city. This problem asks to find the shortest possible route that visits each city exactly once and returns to the origin city?"
 
 3.	Algorithm Architecture
+
 a)	Encoding Gene
 The arrangement of city numbers is used as the decoding method, and the first city in a set of arrangements is defaulted as the departure city.  For example, the city scale is 8, according to the coding rules, a set of chromosomes is 2-4-1-6-8-3-5-7, which means that the traveling salesman starts from city 2 and passes through cities 4, 1, 6, 8, 3, 5, 7, and finally back to city 2.
 
