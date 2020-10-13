@@ -1,14 +1,19 @@
 # The-programming-realization-of-genetic-algorithm
 Experiment 1 The programming realization of genetic algorithm
-1.	Experiment Goal
+1.	Experiment Goal：
+
 a)	Learn to write genetic algorithm program.
+
 b)	To be familiar with the overall structure of GA algorithm.
+
 c)	To master the programming of selection, crossover, mutation and other operators
+
 d)	To master the programming of probability parameters such as roulette.
 
-2.	Introduction to GA algorithm application scenarios
-The Traveling Salesman Problem (TSP) is a classic operational research optimization problem. It has been studied in discrete combinatorial optimization. It has a wide range of engineering applications, such as the arrangement of aircraft routes, the construction of road networks, etc.
-The Traveling Salesman Problem (TSP) refers to a single traveling salesman who needs to go to N cities to sell goods. The salesman starting from a certain city and passing through n-1 cities. The traveling salesman can pass through n-1 cities and can only pass once, and then return to the departure city. This problem asks to find the shortest possible route that visits each city exactly once and returns to the origin city?"
+2.	Introduction to GA algorithm application scenarios: 
+
+  The Traveling Salesman Problem (TSP) is a classic operational research optimization problem. It has been studied in discrete combinatorial optimization. It has a wide range of engineering applications, such as the arrangement of aircraft routes, the construction of road networks, etc.
+  The Traveling Salesman Problem (TSP) refers to a single traveling salesman who needs to go to N cities to sell goods. The salesman starting from a certain city and passing through n-1 cities. The traveling salesman can pass through n-1 cities and can only pass once, and then return to the departure city. This problem asks to find the shortest possible route that visits each city exactly once and returns to the origin city?"
 
 3.	Algorithm Architecture
 
